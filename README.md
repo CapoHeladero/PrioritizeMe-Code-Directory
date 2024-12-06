@@ -34,11 +34,13 @@ When a student enters the app, the first thing they can see is a list of actions
 2- View All Tasks: This option allows users to view their schedule with their tasks as well as their details.                             
     Output: The app show the tasks ordered by priority and other characteristics like category and deadline.
     
-3- Suggesting the Next Task: The application will recommend the user which tasks they should focus on based on the weighted priority of the task and its status.        Output: A suggested task is displayed by the app. If there are no tasks to do, a message will be visible.                                                                                                                                                          
+3- Suggesting the Next Task: The application will recommend the user which tasks they should focus on based on the weighted priority of the task and its status.        Output: A suggested task is displayed by the app. If there are no tasks to do, a message will be visible.                                                     
+
 4- Work Session: When the user chooses a task, they can activate a distraction-free environment using the DistractionBlocker feature.                                   Input: The task title and the estimated duration of the session.                                                                                        
      Output: A timer for the session, and distraction-blocking mode will be activated.
 
 5- Exiting the Program: When the user wants to end the session and exit the app.                                                                               
+
 
 Key Functionalities of the code:                                                                                                                                       
 -Task Prioritization: The application assigns priority levels based on the task category, status, and time until the deadline. 

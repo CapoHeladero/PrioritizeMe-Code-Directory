@@ -43,11 +43,11 @@ When a student enters the app, the first thing they can see is a list of actions
 
 
 Key Functionalities of the code:                                                                                                                                       
--Task Prioritization: The application assigns priority levels based on the task category, status, and time until the deadline. 
+- Task Prioritization: The application assigns priority levels based on the task category, status, and time until the deadline. 
 
--DistractionBlocker: The app has a focus mode that works by blocking all distractions for a specific time.
+- DistractionBlocker: The app has a focus mode that works by blocking all distractions for a specific time.
 
--Task Search and Suggestions: It suggests tasks based on priority, and allows the users to search for specific tasks. 
+- Task Search and Suggestions: It suggests tasks based on priority, and allows the users to search for specific tasks. 
 
 # Further Improvements:
 
